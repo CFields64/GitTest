@@ -1,5 +1,5 @@
 var DarkSouls {
-	x: DemonSouls,
+	x: SoulDemons,
 	y: DarkSoulsI,
 	z: DarkSoulsII,
 	q: Bloodborne,
